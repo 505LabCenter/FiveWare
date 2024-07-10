@@ -9,6 +9,7 @@ Python Version : 3.11
 # Usage Encrypt
 ```bash
 git clone https://github.com/505LabCenter/FiveWare
+cd FiveWare
 python3 FiveWare.py
 ```
 
